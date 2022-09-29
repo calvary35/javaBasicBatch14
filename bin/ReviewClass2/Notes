@@ -1,0 +1,57 @@
+Type casting:
+	Type casting is converting the type of date from one data type to another one. We have two types of type casting.
+		1. Explicit/Narrowing/Manual 	2.Implicit/widening/automatic
+		
+		When we go from a bigger data type to a smaller one is is called Explicit/narrowing/Manual
+		
+		And when we go from a smaller data type to a larger data type we call it Implicit/Widening/Automatic.
+		
+		1. byte(8), 2. short(16), Char(16), 3. int (32), 4. long(64), 5. float(32), 6.double(64) *(parenthesis represent number of bits
+		
+	Why we need type casting?
+			
+			When we are working in teams we might need to convert data from different data types.When we are working with math some time
+			we need to get rid of decimal part as we are only interested in the non-decimal part.
+			
+	What is the syntax?
+		Explicit/Narrowing/Manual
+			int box = 1000;
+			byte box2 = (byte) box;
+		
+		Implicit/widening/Automatic
+			int box = 10000;
+			double box2 = box;
+			
+	
+==========================================================================================================================================
+
+If Statements:
+
+		IF else conditions allow us to write programs that can take decisions based on some condition and provided data.
+		
+		If condition
+		If else condition
+		If else if condition
+		nested if else condition
+
+Why we should learn about if else conditions
+	When we are solving real life problems like testing a website out program needs to make a lot of decisions
+	
+What is the syntax of if else conditions?
+	if condition
+	
+	boolean rich=true;
+	if(rich)
+	{
+	System.out.println("Lets buy a Jet Island");
+	}		
+	
+	
+Nested If Conditions 
+
+* 	are conditions which are dependent on each other if outer condition is
+	not true, inner condition is never checked.
+	inner conditions are only checked when outer condition is passed.
+
+	
+	

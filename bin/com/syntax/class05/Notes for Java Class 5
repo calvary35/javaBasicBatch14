@@ -1,0 +1,51 @@
+
+
+If statements(always work with a boolean condition)
+
+Shortcut for main method:  main + ctrl + space
+
+Nested If- is an If statement inside of another If statement
+	if(boolean condition){
+		
+		if(boolean condition){
+		
+		}
+		}
+
+==================================================================================
+		
+equalsIgnoreCase is used to ignore Upper/lower case of a string within if statements
+
+==================================================================================
+
+Scanner is a class - used to take input from a user
+
+ctrl + shift + o shortcut for bring in scanner class
+
+When input has more than one word is when we use nextLine()
+	otherwise we can use next()
+	
+	
+========================================================================================
+Logical Operators
+
+Assignment Operator: =
+
+Arithmetic: +,-,*,/,%
+
+Relational: >,>=,<,<=,==,!=
+
+Logical: &&, ||, !
+Logical AND= &&
+
+true && true --> TRUE
+true && false --> FALSE
+false && true --> FALSE
+false && false --> FALSE
+
+Logical Or ||
+
+true || true --> TRUE
+true || false --> TRUE
+false || true --> TRUE
+false || false--> FALSE

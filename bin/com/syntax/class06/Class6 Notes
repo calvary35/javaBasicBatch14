@@ -1,0 +1,51 @@
+
+Logical AND &&- all conditions MUST be true for logical and return TRUE
+
+Logical OR || - at least 1 condition MUST be true or return logical TRUE
+
+Logical NOT ! - Reverses condition in booleans- True is now false, False is now True
+
+You can initialize variables by having them equal to 0
+	For example: int largest = 0;
+	
+Compiler always checks out code before giving it to JAVA to execute it.
+
+Compiler can initialize variables to it's default values:
+
+int = 0;
+double= 0.0;
+boolean = false;
+String and other non-primitives = null;
+
+double d = 10;
+System.out.println(d);
+
+Switch statement - statements that executes one statement from multiple values/conditions
+
+SYNTAX
+
+SWITCH (variable){
+
+	case value1:
+			code A;
+			break;
+	case value2:
+			code B;
+			break;
+	default:
+			code C;
+			break;
+}
+
+   //switch case is a value based 
+   // it knows the value -> jumps into matching case
+  //matching cases must be of same data type as the variable
+  //No duplicated case in switch cases
+  //Limitations of Switch Case
+  		*switch case cannot use logical operators
+  		*switch case cannot use relational operators
+  // Cannot work with boolean values
+  //CE: Cannot switch on a value of type boolean.
+  //Cannot work with float/double and long
+  		
+        	 

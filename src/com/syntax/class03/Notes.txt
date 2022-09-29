@@ -1,0 +1,83 @@
+
+
+
+
+Java Class- 8/27-10-3PM
+
+	String Concatenation- 
+		*Helps us combine two Strings together
+		Only + sign is defined when trying to combine a string and integer
+		*For example: "if we subtract 10 from 5 we get=" + 5; this would compile
+		*For example: "if we subtract 10 from 5 we get = " + 10-5; would not compile
+		
+	Arithmetic Operations-
+		*Double is accurate up to 15 places after the decimal point
+		*Float is accurate up to 6-7 places after the decimal point
+========================================================================================================		
+	Type Casting
+		*If right side part of data type is smaller than left side , java will compile.  
+		But if the right side data type is bigger than left side of data type we have to convert it.
+		
+	*Why we should learn type casting
+		
+		When we write code in our real life most of the time we use the code from others to save time
+		We use it so that we can use the code that is written by someone else to make our life easier
+		We might also need to convert the data types to make our code compatible with their code
+		
+	*What is the syntax for type casting?
+		We use () and inside the () we write the destination data type for example
+		if we want to convert a long to an int this is how we can do it.
+		
+		long var1 = 250;
+		int var2 = (int)var1; // Its Explicit/Narrowing/Manual typecasting
+		double var3=var2 // Implicit/Widening/Automatic typecasting
+		
+		float f=250.5f;
+		double d=f; //Implicit/Widening/Automatic typecasting
+		
+		
+		
+	*When we are converting something smaller to larger we don't need to do anything
+		it compiles automatically- 
+		
+		int box=1234;
+		
+		long box2=box;// this is how it works and it is called implicit or widening automatic conversion
+		
+		*However when we are converting a larger data type to a smaller data type then we have to assign the data type in the parenthesis()
+		
+		long box=1255453535;
+		
+		int box2= (int) box; this is called narrowing or explicit or manual conversion
+===========================================================================================		
+	Relational & Equality Operators
+		< Less Than
+		> Greater Than
+		<= Less Than Or Equal To
+		>= Greater Than Or Equal To
+		== Equal To
+		!= Not Equal To
+		
+====================================================================		
+	If Else Conditions
+		If else conditions help us write code that can take the decision based on data.
+		
+	Why we should learn about if else?
+		Because when we are solving a real life problem like testing a website our programs 
+		need to make a lot of decisions.
+		
+		If (the given username and password matches)
+		{go to home page} ELSE {give user a warning}
+		
+	What is the syntax for If Else Conditions
+		boolean isHungry=true;
+		
+		if(isHungry){
+		System.out.println("Please Eat Something");
+		}else{
+		System.out.println("Lets build some java programs");
+		}
+		
+		
+		
+		
