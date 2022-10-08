@@ -8,9 +8,17 @@ public class Task4 {
         output=>sihT si ecnetnes i tnaw ot esrever
          */
         String a = "This is sentence i want to reverse";
-        for(int i =a.length()-1;i>=0;i--){
-            char c = a.charAt(i);
-            System.out.print(c);
+        String[] arr=a.split(" ");
+        StringBuilder st =new StringBuilder();
+        for (int i = 0; i < arr.length; i++) {
+         String word = arr[i];
+         StringBuilder stringBuilder = new StringBuilder(word);
+         stringBuilder.reverse();
+         arr[i]=stringBuilder.toString();
+         st.append(arr[i]).append(" ");
+
+        }
+        System.out.println(st);
         }
     }
-}
+
