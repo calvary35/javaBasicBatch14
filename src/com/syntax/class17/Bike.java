@@ -19,7 +19,7 @@ public class Bike {
         }
 
         Bike() {
-
+            System.out.println("Thats a nice bike");
         }
 
         void printBikeInfo() {
@@ -33,6 +33,7 @@ public class Bike {
         Bike obj2 = new Bike();
         obj.printBikeInfo();
         obj2.printBikeInfo();
+
 
             }
 

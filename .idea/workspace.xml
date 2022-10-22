@@ -2,71 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d11edc4-a493-438a-b0fd-8d5aa0a99c1c" name="Changes" comment="Class 14">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass6/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class12/class12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Methods4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/MethodsDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/MethodsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/MethodsDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HondaBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/LocalVarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HWModifiers1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HWModifiers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HWModifiers3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HWTaskTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/PersonTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/SyntaxEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Task1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/EmpTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/HWTask1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/HWTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/HWTask4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass6/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass6/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/CatTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/StudentHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task3Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/ThisKeywordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Crow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/HWTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/UserClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Adding2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/HWTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/HWTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/MethodOverloadingD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Repl139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/TeacherTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/programming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/BrowserTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/EmployeeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replits/replit130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replits/replit131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replits/replit132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replits/replit133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replits/replit134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replits/replits135.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaBasics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass2/Notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass2/messingAround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass2/messingAround.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass5/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass5/Questions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass5/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass5/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass5/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass5/StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass5/StringMethods1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass5/StringMethods1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class14/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class14/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class14/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class14/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/LogicalOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/LogicalOperator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/LogicalOperator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/LogicalOperator3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/LogicalOperator3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/LogicalOperator4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/LogicalOperator4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/LogicalOperator5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/LogicalOperator5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/MessingAroundSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/MessingAroundSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/NestedIFMessingAround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/NestedIFMessingAround.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/NestedIfVsLogicalAnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/NestedIfVsLogicalAnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass3/YesNoExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass3/YesNoExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass4/Array2DDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass4/Array2DDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass4/Array2DDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass4/Array2DDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass4/ArraysDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass4/ArraysDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass4/ArraysDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass4/ArraysDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass4/ArraysDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass4/ArraysDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass4/ArraysDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass4/ArraysDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass4/ArraysDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass4/ArraysDemo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass4/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass4/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass4/Replit79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClasses/reviewClass4/Replit79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/goofaround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/goofaround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class17/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/HWTask1Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class17/HWTask1Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/HWTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class17/HWTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class17/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replits/Replit83.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +92,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -88,6 +102,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2FBiv6wsg6vJ2O6GfkX3cvo0zxp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -100,20 +117,25 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ksbro/IdeaProjects/javaBasicBatch14&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ksbro/IdeaProjects/GroupProjectTasks&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="HWModifiers1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class16.HWModifiers1" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.syntax.class19" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HWTask1">
+    <configuration name="HWTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class19.HWTask1" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class16.*" />
+          <option name="PATTERN" value="com.syntax.class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,58 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HWModifiers2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class16.HWModifiers2" />
+    <configuration name="tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class19.tester" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.class16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HWTaskTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class16.HWTaskTester" />
-      <module name="JavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Replits" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Eclipse Adoptium/jdk-11.0.16.8-hotspot" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Shelter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClasses.ReviewClass6.Shelter" />
-      <module name="JavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReviewClasses.ReviewClass6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class17.Students" />
-      <module name="JavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class17.*" />
+          <option name="PATTERN" value="com.syntax.class19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,11 +158,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Shelter" />
-        <item itemvalue="Application.Students" />
-        <item itemvalue="Application.HWTaskTester" />
-        <item itemvalue="Application.HWModifiers2" />
-        <item itemvalue="Application.HWModifiers1" />
+        <item itemvalue="Application.HWTask1" />
+        <item itemvalue="Application.tester" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +202,30 @@
           <line>7</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/replits/replit131.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/replits/replit132.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/replits/replit151.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/replits/replit164.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

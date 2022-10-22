@@ -22,22 +22,24 @@ NOTE: please use different names for instance and local variables.
 
     }
 
+
      void calculateAvgGrade() {
-        int average = (mathGrade + historyGrade + scienceGrade) / 3;
-         System.out.println(studentName+ "'s average grade between the three courses is: "+ average);
+
+         System.out.println(studentName+ "'s average grade between the three courses is: "+
+                 (mathGrade + historyGrade+scienceGrade)/3);
     }
 
     public static void main(String[] args) {
-        Students student1 = new Students("Kevin", 84, 75, 94);
-        student1.calculateAvgGrade();
-        Students student2 = new Students("Chris", 89, 94, 75);
-        student2.calculateAvgGrade();
-        Students student3 = new Students("James", 84, 97, 92);
-        student3.calculateAvgGrade();
-        Students student4 = new Students("Michael", 92, 94, 91);
-        student4.calculateAvgGrade();
-        Students student5 = new Students("Zach", 98, 88, 91);
-        student5.calculateAvgGrade();
+        new Students("Kevin", 84, 75, 94).calculateAvgGrade();
+
+         new Students("Chris", 89, 94, 75).calculateAvgGrade();
+
+        new Students("James", 84, 97, 92).calculateAvgGrade();
+
+        new Students("Michael", 92, 94, 91).calculateAvgGrade();
+
+         new Students("Zach", 98, 88, 91).calculateAvgGrade();
+
 
 
 
