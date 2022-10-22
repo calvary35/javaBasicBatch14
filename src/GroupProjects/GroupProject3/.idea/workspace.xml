@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="094dfbc5-6d2b-4faf-a3a6-d8e34c116d04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ReviewClasses/ReviewClass6/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReviewClasses/ReviewClass6/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/CatTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/StudentHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Task3Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class18/ThisKeywordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/Crow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/HWTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class19/UserClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/Adding2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/HWTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/HWTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/MethodOverloadingD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/Repl139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/TeacherTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class20/programming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/BrowserTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/EmployeeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class21/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../com/syntax/class22/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../replits/replit130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../replits/replit131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../replits/replit132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../replits/replit133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../replits/replit134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../replits/replits135.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/JavaBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/JavaBasics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/goofaround.java" beforeDir="false" afterPath="$PROJECT_DIR$/../goofaround.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GroupArrayTasks/task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com/syntax/class17/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../com/syntax/class17/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com/syntax/class17/HWTask1Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../com/syntax/class17/HWTask1Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com/syntax/class17/HWTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../com/syntax/class17/HWTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../com/syntax/class17/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../com/syntax/class17/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../replits/Replit83.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2GVN1d7E2ybdS4TgZmegUSbFRe9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ksbro/IdeaProjects/GroupProjectTasks"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="094dfbc5-6d2b-4faf-a3a6-d8e34c116d04" name="Changes" comment="" />
+      <created>1666469576246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666469576246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
