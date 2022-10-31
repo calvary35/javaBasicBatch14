@@ -2,84 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d11edc4-a493-438a-b0fd-8d5aa0a99c1c" name="Changes" comment="Class 14">
-      <change afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass6/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClasses/ReviewClass6/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/CatTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/StudentHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task3Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/ThisKeywordDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Crow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/HWTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/UserClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Adding2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/HWTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/HWTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/MethodOverloadingD2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Repl139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/TeacherTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/BrowserTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/EmployeeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replits/replit130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replits/replit131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replits/replit132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replits/replit133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replits/replit134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replits/replits135.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaBasics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/goofaround.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/goofaround.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroupArrayTasks/task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroupProjects/task9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class17/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/HWTask1Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class17/HWTask1Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/HWTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class17/HWTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class17/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class17/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replits/Replit83.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +41,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ksbro/IdeaProjects/GroupProjectTasks&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ksbro/IdeaProjects/javaBasicBatch14&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -172,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663972108063</updated>
     </task>
+    <task id="LOCAL-00001" summary="Class 14">
+      <created>1666475836694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666475836694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +157,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="11" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="15" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

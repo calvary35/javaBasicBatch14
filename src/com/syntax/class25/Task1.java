@@ -1,0 +1,16 @@
+package com.syntax.class25;
+
+import java.util.ArrayList;
+
+public class Task1 {
+    public static void main(String[] args) {
+        //Non-generic way of using collections framework this is how predecessors use to write code before java
+        //1.5 it causes a lot of problems at run time because java doesn't know at compile time what type of data
+        //you are storing in this class and because java does not know- java can't help you avoid these errors
+        ArrayList names = new ArrayList();
+        names.add("Serhi");
+        names.add(10);
+        //System.out.println(names);
+        System.out.println(((String)names.get(0)).length());
+    }
+}
