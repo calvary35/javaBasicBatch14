@@ -6,13 +6,21 @@ import java.util.ArrayList;
 public class HW3 {
     public static void main(String[] args) {
         ArrayList<Integer> numbers = new ArrayList<>();
+        for (int i = 2; i <= 500; i += 2) {
 
-        for (int i = 0; i <= 500; i += 2) {
-            if (i % 5 != 0) {
-                numbers.add(i);
+            numbers.add(i);
+        }
+        var it = numbers.iterator();
+
+        while (it.hasNext()) {
+            Integer num = it.next();
+            if (num % 5 == 0) {
+                it.remove();
             }
+
         }
         System.out.println(numbers);
+
     }
 }
 
