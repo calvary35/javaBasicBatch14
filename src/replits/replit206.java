@@ -14,6 +14,7 @@ public class replit206 {
         map.put("FOUR","DDD");
         map.put("FIVE","EEE");
 
+
         Set<Map.Entry<String,String>> values = map.entrySet();
         System.out.println("HashMap Before Remove :");
         for(Map.Entry<String,String> value:values){
@@ -26,15 +27,9 @@ public class replit206 {
         Set<Map.Entry<String,String>> newValues = map.entrySet();
         System.out.println("HashMap After Remove :");
 
-        for(Map.Entry<String,String> items:newValues){
-            String key =items.getKey();
-            String val= items.getValue();
-            if(key.equals("ONE")||key.equals("FOUR")){
-                newValues.remove(items);
-            }else{
-                System.out.println(key+" : "+val);
-            }
-        }
+        newValues.removeIf(x->(x.getKey().equals("ONE")||x.getKey().equals("FOUR")));
+        System.out.println(newValues);
+
 
     }
 }
